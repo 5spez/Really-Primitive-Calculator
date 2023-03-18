@@ -1,0 +1,11 @@
+C:\Users\jplop\source\repos\nword\nword\bin\Debug\nword.exe.config
+C:\Users\jplop\source\repos\nword\nword\bin\Debug\nword.exe
+C:\Users\jplop\source\repos\nword\nword\bin\Debug\nword.pdb
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.csproj.AssemblyReference.cache
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.csproj.SuggestedBindingRedirects.cache
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.Form1.resources
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.Properties.Resources.resources
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.csproj.GenerateResource.cache
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.csproj.CoreCompileInputs.cache
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.exe
+C:\Users\jplop\source\repos\nword\nword\obj\Debug\nword.pdb
